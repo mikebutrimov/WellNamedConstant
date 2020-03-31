@@ -12,7 +12,7 @@ Yes, it is good practice to name all constant integers as REAL_TRUE_CONSTANTS, b
  
 Correction: it was.
  
-Now with this revolution library you can have at your disposal all first thousand of perfectly named integers from 0 to 999.
+Now with this revolution library you can have at your disposal all first thousand of perfectly named integers from 0 to 1000.
  
 Just imagine how nice your code can be:
  
